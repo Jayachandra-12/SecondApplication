@@ -74,7 +74,7 @@ function App() {
         </select>
         </div>
         <div className='mb-4'>
-        <button type='submit' onClick={onSubmission}>submit</button>
+        <button type='submit' onClick={onSubmission} className='btn btn-info'>submit</button>
         </div>
       </div>
       {flag1 && <div className='d-flex justify-content-evenly mt-5 mb-5'>
