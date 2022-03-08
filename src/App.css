@@ -1,0 +1,27 @@
+
+
+table {
+    border: 20px solid black;
+    background-color: aliceblue;
+}
+th:hover,h1:hover {
+    color: red;
+}
+td:hover {
+    color: red;
+}
+tr:hover {
+    background-color: burlywood;
+}
+select:hover {
+    color: crimson;
+    background-color: burlywood;
+}
+
+button:hover {
+    color: crimson;
+    background-color: burlywood;
+}
+img:hover {
+    transform: scale(1.5);
+}

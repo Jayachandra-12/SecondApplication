@@ -1,0 +1,100 @@
+[
+        {
+            "id": "1",
+            "Students": "Divya Narasimhan",
+            "Score": "75",
+            "Previous Score": "50",
+            "Grade": "1"
+        },
+        {
+            "id": "2",
+            "Students": "Madhumati",
+            "Score": "35",
+            "Previous Score": "34",
+            "Grade": "2"
+        },
+        {
+            "id": "3",
+            "Students": "swapnil",
+            "Score": "50",
+            "Previous Score": "75",
+            "Grade": "4"
+        },
+        {
+            "id": "4",
+            "Students": "NIrula",
+            "Score": "99",
+            "Previous Score": "35",
+            "Grade": "3"
+        },
+        {
+            "id": "5",
+            "Students": "Tanvee",
+            "Score": "40",
+            "Previous Score": "90",
+            "Grade": "4"
+        },
+        {
+            "id": "6",
+            "Students": "Venkat Madhavan",
+            "Score": "80",
+            "Previous Score": "75",
+            "Grade": "3"
+        },
+        {
+            "id": "7",
+            "Students": "Hariharan",
+            "Score": "61",
+            "Previous Score": "61",
+            "Grade": "4"
+        },
+        {
+            "id": "8",
+            "Students": "Vihaan Choudary",
+            "Score": "54",
+            "Previous Score": "35",
+            "Grade": "2"
+        },
+        {
+            "id": "9",
+            "Students": "tanmayi Gautami",
+            "Score": "95",
+            "Previous Score": "84",
+            "Grade": "4"
+        },
+        {
+            "id": "10",
+            "Students": "Varuna Vijayalakshmi",
+            "Score": "35",
+            "Previous Score": "35",
+            "Grade": "1"
+        },
+        {
+            "id": "11",
+            "Students": "paada kamalesha",
+            "Score": "51",
+            "Previous Score": "41",
+            "Grade": "2"
+        },
+        {
+            "id": "12",
+            "Students": "meru pranesha",
+            "Score": "87",
+            "Previous Score": "80",
+            "Grade": "4"
+        },
+        {
+            "id": "13",
+            "Students": "kanthi swarneshwari iyer",
+            "Score": "97",
+            "Previous Score": "99",
+            "Grade": "3"
+        },
+        {
+            "id": "14",
+            "Students": "Hiranmayi Chimpulkar",
+            "Score": "63",
+            "Previous Score": "36",
+            "Grade": "2"
+        }
+]
